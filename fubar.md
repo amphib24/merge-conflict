@@ -12,4 +12,6 @@ we're pushing to master when we're not supposed to
 
 workign on master at the same time.
 we're pushing to master when we're not supposed to
->>>>>>> 5eb415480c6b353bbc738b6f77b2b47707044160
+
+there are only 10 kinds of people in the world, those who get binary and those who don't
+
